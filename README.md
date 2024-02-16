@@ -16,7 +16,7 @@ With this app you can:
 
 You can visit it at:
 
-https://www.fan-find.com
+[www.fan-find.com](https://fanfind-460dd89f6f77.herokuapp.com/)
 
 It is a Progressive Web App, you can add it to your mobile home screen for better user experience.
 
